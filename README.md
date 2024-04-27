@@ -10,10 +10,6 @@ This project showcases the integration of Spring Boot, Apache Kafka, and Postman
 - **Apache Kafka:** A distributed event streaming platform for building real-time data pipelines.
 - **Postman:** A popular API development and testing tool for exploring and interacting with APIs.
 
-## Entity: Etudiant
-
-The primary entity in this system is "Etudiant," representing students in the management system.
-
 ## Features
 
 - **Message Processing:** Utilizes Kafka's publish-subscribe model for processing student-related messages asynchronously.
