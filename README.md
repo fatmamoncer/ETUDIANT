@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project showcases the integration of Spring Boot, Apache Kafka, and Postman to build a simple Etudiant (Student) Management System. The application includes a Kafka producer responsible for producing messages related to students and a Kafka consumer that processes and consumes these messages.
+This project showcases the integration of Spring Boot, Apache Kafka, and Postman to build a simple teacher Management System. The application includes a Kafka producer responsible for producing messages related to teacher and a Kafka consumer that processes and consumes these messages.
 
 ## Technologies Used
 
@@ -12,12 +12,6 @@ This project showcases the integration of Spring Boot, Apache Kafka, and Postman
 
 ## Features
 
-- **Message Processing:** Utilizes Kafka's publish-subscribe model for processing student-related messages asynchronously.
-- **Spring Boot Integration:** Demonstrates the integration of Spring Boot to build a robust and scalable microservice for student management.
+- **Message Processing:** Utilizes Kafka's publish-subscribe model for processing teacher-related messages asynchronously.
+- **Spring Boot Integration:** Demonstrates the integration of Spring Boot to build a robust and scalable microservice for teacher management.
 
-## Getting Started
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-username/etudiant-management.git
-   cd etudiant-management
