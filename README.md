@@ -1,4 +1,4 @@
-# Student Management System
+# Teacher Management System
 
 ## Overview
 
